@@ -1,0 +1,29 @@
+[
+    {
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "author": "asd",
+        "text": "asdasd"
+    },
+    {
+        "author": "clay",
+        "text": "testing date",
+        "date": "Fri Oct 16 2015 16:19:50 GMT+0100 (GMT Summer Time)"
+    },
+    {
+        "author": "asd",
+        "text": "asd",
+        "date": "Fri Oct 16 2015 16:34:21 GMT+0100 (GMT Summer Time)"
+    },
+    {
+        "author": "asd",
+        "text": "asdasd",
+        "date": "Fri Oct 16 2015 16:34:25 GMT+0100 (GMT Summer Time)"
+    }
+]
